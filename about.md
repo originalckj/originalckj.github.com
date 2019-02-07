@@ -4,12 +4,37 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+information
 
-### More Information
+### Skill
 
-A place to include any other types of information that you'd like to include about yourself.
+## Hadoop Ecosystem
+HDFS
+HBase
+ZooKeeper
+
+## Apache
+Phoenix
+Solr
+Storm
+Kafka
+Redis
+
+## Cloudera
+CDH4, CDH5
+
+## Google Cloud Platform
+BigQuery
+Pub/Sub
+DataProc
+App Engine
+Compute Engine
+CloudSQL
+
+## Language
+Java 8
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[originalckj@gmail.com](mailto:originalckj@gmail.com)
