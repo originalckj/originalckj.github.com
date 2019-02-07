@@ -9,43 +9,31 @@ information
 ### Skill
 
 #### Hadoop Ecosystem
-HDFS
-
-HBase
-
-ZooKeeper
+##### HDFS
+##### HBase
+##### ZooKeeper
 
 #### Apache
-Phoenix
-
-Solr
-
-Storm
-
-Kafka
-
-Redis
+##### Phoenix
+##### Solr
+##### Storm
+##### Kafka
+##### Redis
 
 #### Cloudera
-CDH4
-
-CDH5
+##### CDH4
+##### CDH5
 
 #### Google Cloud Platform
-App Engine
-
-Compute Engine
-
-CloudSQL
-
-BigQuery
-
-Pub/Sub
-
-DataProc
+##### App Engine
+##### Compute Engine
+##### CloudSQL
+##### BigQuery
+##### Pub/Sub
+##### DataProc
 
 #### Language
-Java 8
+##### Java 8
 
 
 ### Contact me
