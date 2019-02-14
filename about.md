@@ -1,39 +1,37 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-information
-
 ### Skill
-
 #### Hadoop Ecosystem
-##### HDFS
-##### HBase
-##### ZooKeeper
+1. HDFS
+2. HBase
+3. ZooKeeper
 
 #### Apache
-##### Phoenix
-##### Solr
-##### Storm
-##### Kafka
-##### Redis
+1. Phoenix
+2. Solr
+3. Storm
+4. Kafka
+5. Redis
 
 #### Cloudera
-##### CDH4
-##### CDH5
+1. CDH4
+2. CDH5
 
 #### Google Cloud Platform
-##### App Engine
-##### Compute Engine
-##### CloudSQL
-##### BigQuery
-##### Pub/Sub
-##### DataProc
+1. App Engine
+2. Compute Engine
+3. CloudSQL
+4. BigQuery
+5. Pub/Sub
+6. DataProc
 
 #### Language
-##### Java 8
+1. Java 8
+2. Python
 
 
 ### Contact me
