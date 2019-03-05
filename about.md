@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-permalink: /about/
+title: 소개글
+permalink: /about
 ---
 
 ### Skill
