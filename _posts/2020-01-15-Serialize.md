@@ -43,3 +43,7 @@ Thrift나 Protocol Buffer와 비슷하지만 스키마 변경이 발생할 때 �
 * Thrift: RPC 프레임워크를 형성하며 페이스북에서 "스케일링 가능한 언어 간 서비스 개발"을 위해 개발되었다. 현재는 아파치에서 관리되고 있다.
     
 *직렬화 Framework에 대한 각각의 상세한 설명은 다음포스팅에...*
+
+
+참조  
+<http://woowabros.github.io/experience/2017/10/17/java-serialize.html>
