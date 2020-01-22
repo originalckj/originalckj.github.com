@@ -19,7 +19,7 @@ Hadoop 플랫폼에서 속도와 효율성을 높이기 위한 컬럼 기반의 
 #### 저장 포맷 압축률 비교
 ![_config.yml]({{ site.baseurl }}/assets/2020-01-22/2020-01-22_compress.png)
 
-### History
+### Hadoop 저장 포맷 History
 ![_config.yml]({{ site.baseurl }}/assets/2020-01-22/2020-01-22_history.png)
  
 조회, 분석하는 Hive에서 컬럼스토어와 유사하게 구현하기 위한 RC File 이란 포맷이 맨 처음 페이스북에서 개발되었다.
