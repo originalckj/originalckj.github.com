@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: 직렬화(Serialization)
-category: [ java ]
+category: [ Lab ]
 ---
 
 ### Serialization and Deserialization
@@ -29,7 +29,7 @@ _**메모리 상에 존재하는 데이터**_ 를 _**파일로 저장하거나 �
 * JSON
 * XML
 
-![_config.yml]({{ site.baseurl }}/assets/2020-01-15/2020-01-15_serialization.png)
+![_config.yml]({{ site.baseurl }}/assets/lab/2020-01-15/2020-01-15_serialization.png)
 
 ### 직렬화의 최적화
 데이터 변환 및 전송 속도에 최적화하여 별도의 직렬화 방법을 제시하는 구조이다.    

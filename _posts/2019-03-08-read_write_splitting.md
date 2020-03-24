@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: MySQL 이중화 대응 with ShardingSphere
-category: [ java ]
+category: [ Lab ]
 ---
 
 ### 문제발생
@@ -14,9 +14,9 @@ category: [ java ]
 * Spring Framework를 사용하지 않으면 DML 종류에 따라 Master/Slave 를 분기하는 귀찮은 로직을 개발해야 함  
 * Google 검색 중 ShardingSphere 라는 오픈소스를 발견  
 * <https://shardingsphere.apache.org>      
-![_config.yml]({{ site.baseurl }}/assets/2019-03-08/2019-03-08_shardingsphere_main.png)  
+![_config.yml]({{ site.baseurl }}/assets/lab/2019-03-08/2019-03-08_shardingsphere_main.png)  
 * ShardingSphere의 대표적인 기능으로 Read-Write Splitting 확인하여 사용하기로 결정  
-![_config.yml]({{ site.baseurl }}/assets/2019-03-08/2019-03-08_data_sharding_main.png)  
+![_config.yml]({{ site.baseurl }}/assets/lab/2019-03-08/2019-03-08_data_sharding_main.png)  
 
 
 ### ShardingSphere Read-Write Splitting Core 분석
@@ -39,7 +39,7 @@ category: [ java ]
 * 3.x 버전은 활성화된 버전이며 3.0.0, 3.1.0 버전이 존재. 여기는 3.0.0 버전사용 (3.1.0 버전사용시 홈페이지에 있는 예제와 인자 값들이 안맞는 메소드들이 존재)  
 * 4.x 개발 예정  
 <https://mvnrepository.com/artifact/io.shardingsphere/sharding-jdbc>
-![_config.yml]({{ site.baseurl }}/assets/2019-03-08/2019-03-08_maven.png)
+![_config.yml]({{ site.baseurl }}/assets/lab/2019-03-08/2019-03-08_maven.png)
 
 #### Java 코드
 여기서는 Spring Framework를 사용하지 않았지만 공식 홈페이지에서는 Spring Framework를 위한 샘플 코드도 있다.    
@@ -86,6 +86,6 @@ category: [ java ]
 
 ### 결과 화면
 CloudSQL을 사용하는 AppEngine 모듈에 적용해보았다.
-![_config.yml]({{ site.baseurl }}/assets/2019-03-08/2019-03-08_sql.png)
+![_config.yml]({{ site.baseurl }}/assets/lab/2019-03-08/2019-03-08_sql.png)
 적용한 시점 부터 새로 구성된 Slave 인스턴스에 Connection이 생성된 것으로 확인된다.
 
