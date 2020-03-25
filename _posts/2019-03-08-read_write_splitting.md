@@ -84,7 +84,7 @@ category: [ Lab ]
     DataSource dataSource = MasterSlaveDataSourceFactory.createDataSource(dataSourceMap, config, new HashMap<>(), new Properties()));
 ~~~
 
-### 결과 화면
+### 결과
 CloudSQL을 사용하는 AppEngine 모듈에 적용해보았다.
 ![_config.yml]({{ site.baseurl }}/assets/lab/2019-03-08/2019-03-08_sql.png)
 적용한 시점 부터 새로 구성된 Slave 인스턴스에 Connection이 생성된 것으로 확인된다.

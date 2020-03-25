@@ -45,5 +45,5 @@ Thrift나 Protocol Buffer와 비슷하지만 스키마 변경이 발생할 때 �
 *직렬화 Framework에 대한 각각의 상세한 설명은 다음포스팅에...*
 
 
-참조  
+### 참조  
 <http://woowabros.github.io/experience/2017/10/17/java-serialize.html>

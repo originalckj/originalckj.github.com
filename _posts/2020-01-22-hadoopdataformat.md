@@ -58,5 +58,5 @@ Parquet 특징은
 
 클라우데라가 Parquet를 적극적으로 지원하며, SQL on Hadoop 기술인 임팔라에 Parquet를 채택한다.
 
-참조  
+### 참조  
 <http://www.zdnet.co.kr/view/?no=20131211140045>
